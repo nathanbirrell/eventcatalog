@@ -349,14 +349,32 @@
       ]
     },
     {
-        "login": "debae",
-        "name": "Baerten Dennis",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2007116?v=4",
-        "profile": "http://www.ennovative-solutions.be",
-        "contributions": [
-          "code"
-        ]
-      }
+      "login": "debae",
+      "name": "Baerten Dennis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2007116?v=4",
+      "profile": "http://www.ennovative-solutions.be",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ryancormack",
+      "name": "Ryan Cormack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1962883?v=4",
+      "profile": "https://github.com/ryancormack",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nathanbirrell",
+      "name": "Nathan Birrell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4300215?v=4",
+      "profile": "https://natee.biz",
+      "contributions": [
+        "code"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,

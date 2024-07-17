@@ -1,5 +1,41 @@
 # @eventcatalog/core
 
+## 2.0.23
+
+### Patch Changes
+
+- 66a764c: fix(core: fixed additional ts errors)
+
+## 2.0.22
+
+### Patch Changes
+
+- 58a02a1: chore(core): removed console logs
+
+## 2.0.21
+
+### Patch Changes
+
+- 22e4b6d: fix(core): fixed issues with styling
+
+## 2.0.20
+
+### Patch Changes
+
+- 5de772b: fix(core): fixed typescript errors
+
+## 2.0.19
+
+### Patch Changes
+
+- 4be2512: feat(core): added ability to configure port on EventCatlog
+
+## 2.0.18
+
+### Patch Changes
+
+- 209e428: fix(core): fixed domain nav bar in discovery page
+
 ## 2.0.17
 
 ### Patch Changes
